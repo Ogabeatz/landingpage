@@ -56,22 +56,25 @@ background-color: #11CDD4;
 padding: 50px 0 20px;
 }
 
+.kwame-photo{
+    width: 15%;
+}
+
 .top-cloud{
-    height: 72px;
-    width: 128px;
+    width: 5%;
     position: absolute;
-    right: 200px;
+    right: 20em;
+    margin: auto;
 }
 .bottom-cloud {
-height: 72px;
-width: 128px;
+width: 5%;
 position: absolute;
-left: 300px;
+left: 20em;
 }
 
 .mountain{
-height:292px;
-width: 484px;    
+height:auto;
+width: 25%;    
 }
 
 .skill-row{
@@ -92,7 +95,7 @@ width: 484px;
 
 }
 .intro{
-    width: 30%;
+    width: 50%;
     line-height: 2;
     margin: auto;
 }
@@ -133,3 +136,5 @@ width: 484px;
     background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
     text-decoration: none;
   }
+/* chatgbp*/
+
